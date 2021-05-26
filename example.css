@@ -1,0 +1,24 @@
+.text-gray{
+  color: #b1b1b1;
+}
+
+button.black-btn{
+  background-color: 	#292929;
+  border-color: 	#292929;
+}
+
+button.black-btn:hover{
+  background-color: 	#555555;
+  border-color: 	#555555;
+}
+
+.red{
+  color: red;
+}
+
+.btn-excel{
+  background: green !important;
+  color: white !important;
+  margin-top: 5px;
+  margin-left: 40px;
+}
